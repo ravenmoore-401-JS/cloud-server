@@ -9,9 +9,13 @@
 - [ci/cd](https://github.com/ravenmoore-401-JS/cloud-server/actions) (GitHub Actions)
 
 - [back-end server url cli deploy](http://cloud-server-dev.us-west-2.elasticbeanstalk.com/)
-- [back-end server url browser deploy]()
+- [back-end server url browser deploy]( http://cloudserver-env.eba-bjsjmnu2.us-east-1.elasticbeanstalk.com/)
 
 - [submit PR](https://github.com/ravenmoore-401-JS/basic-express-server/pull/1)
+
+### Process
+
+this was fairly stright forward for me i have used ec2 deployment in small ways.
 
 ### Setup
 
@@ -25,8 +29,6 @@ run `npm i`
 #### How to initialize/run your application (where applicable)
 
 run `npm start`
-
-#### How to use your library (where applicable)
 
 #### Tests
 
