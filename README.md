@@ -8,7 +8,7 @@
 
 - [ci/cd](https://github.com/ravenmoore-401-JS/cloud-server/actions) (GitHub Actions)
 
-- [back-end server url cli deploy]()
+- [back-end server url cli deploy](http://cloud-server-dev.us-west-2.elasticbeanstalk.com/)
 - [back-end server url browser deploy]()
 
 - [submit PR](https://github.com/ravenmoore-401-JS/basic-express-server/pull/1)
